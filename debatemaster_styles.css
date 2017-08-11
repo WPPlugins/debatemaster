@@ -1,0 +1,26 @@
+.debatepoint{
+	-moz-border-radius: 10px; 
+	-webkit-border-radius: 10px;
+	padding: 5px 10px;
+	width: 450px;
+	margin-bottom: 8px;
+}
+.debatepoint img.avatar{
+	float: left;
+	margin: 2px 8px;
+	display: block;
+}
+.debatepoint p{}
+div.debatepoint span.usernicename{
+	font-style: italic;
+	font-size: 1.1em;
+}
+div.debatepoint span.argue{
+	font-size: .9em;
+}
+.debatemaster-left{
+	float: left;
+}
+.debatemaster-right{
+	float: right;
+}
